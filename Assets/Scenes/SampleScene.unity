@@ -450,21 +450,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 85105764164963103, guid: 6bb798b06d295df4d890be0b55df2d08, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 2ea0ca4b13e2e2f4ca8606a9e82d2c64, type: 2}
     - target: {fileID: 85105764164963298, guid: 6bb798b06d295df4d890be0b55df2d08, type: 3}
       propertyPath: m_Name
       value: MyObject
       objectReference: {fileID: 0}
-    - target: {fileID: 6374095913645981847, guid: 6bb798b06d295df4d890be0b55df2d08, type: 3}
-      propertyPath: hp
-      value: 99
-      objectReference: {fileID: 0}
-    - target: {fileID: 6374095913645981847, guid: 6bb798b06d295df4d890be0b55df2d08, type: 3}
-      propertyPath: ornekobjem
-      value: 
-      objectReference: {fileID: 3122427821941496209, guid: 5fbeb6e1c317af847a3894429b0bd87c, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6bb798b06d295df4d890be0b55df2d08, type: 3}
